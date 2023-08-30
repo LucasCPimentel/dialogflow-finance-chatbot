@@ -19,12 +19,6 @@ Este projeto apresenta um chatbot que utiliza a plataforma de processamento de l
 - Atualiza os perfis dos usuários com as notícias geradas.
 - Realiza análise estatística dos saldos das contas e dos limites de crédito.
 
-## Como Executar
-1. Clone este repositório em sua máquina local.
-2. Instale as bibliotecas Python necessárias com `pip install -r requirements.txt`.
-3. Configure o seu projeto Google Cloud Dialogflow e obtenha as credenciais em formato JSON.
-4. Atualize o `dialogflow_project_id` e `json_credentials_path` no código.
-5. Execute o código usando `python main.py`.
 
 ## Exemplo de Saída
 ### Frases geradas aos usuários:
