@@ -1,9 +1,9 @@
 # dialogflow-finance-chatbot
 
-# Chatbot Bancário de Notícias usando o Dialogflow
+# Chatbot Bancário usando o Dialogflow
 
 ## Visão Geral
-Este projeto implementa um chatbot que gera notícias bancárias e financeiras usando a plataforma de processamento de linguagem natural Dialogflow. O chatbot interage com dados de usuários obtidos de uma API externa e usa as intenções do Dialogflow para criar mensagens de notícias personalizadas para cada usuário.
+Este projeto implementa um chatbot que gera frases incentivando as pessoas a investirem usando a plataforma de processamento de linguagem natural Dialogflow. O chatbot interage com dados de usuários obtidos de uma API externa e usa as intenções do Dialogflow para criar mensagens  personalizadas para cada usuário.
 
 ## Tecnologias Utilizadas
 - Python
@@ -15,7 +15,7 @@ Este projeto implementa um chatbot que gera notícias bancárias e financeiras u
 
 ## Funcionalidades
 - Recupera dados de usuários de uma API externa.
-- Gera mensagens de notícias personalizadas sobre bancos e investimentos usando o Dialogflow.
+- Gera mensagens personalizadas usando o Dialogflow.
 - Atualiza os perfis dos usuários com as notícias geradas.
 - Realiza análise estatística dos saldos das contas e dos limites de crédito.
 
